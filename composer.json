@@ -1,0 +1,16 @@
+{
+    "name": "genesisoft/continueshopping",
+    "description": "Módulo para exibir um bloco de continuar comprando",
+    "type": "magento2-module",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Genesisoft\\ContinueShopping\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
